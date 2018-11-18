@@ -24,7 +24,7 @@ html {
 	text-decoration: none;
 	padding: 5px 20px;
 	font-family: 'Permanent Marker', cursive;
-	font-size: 30px;
+	font-size: 25px;
 }
 	
 .main-nav li.active a {
@@ -42,7 +42,7 @@ h1 {
 	text-align: left;
 	left: 20px;	
 	white-space:nowrap;
-	margin: 0px;
+	margin-top: -80px;
 }
 
 h2 {
@@ -67,9 +67,9 @@ ul {
 * {box-sizing:border-box}
 
 .slideshow-container {
-  max-width: 500px;
-  position: relative;
-  margin: auto;
+	max-width: 300px;
+	position: relative;
+	margin: auto;
 }
 
 .mySlides {
@@ -77,42 +77,44 @@ ul {
 }
 
 .prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  margin-top: -22px;
-  padding: 16px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  border-radius: 0 3px 3px 0;
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	margin-top: -22px;
+	padding: 16px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border-radius: 0 3px 3px 0;
 }
 
 .next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
+	right: 0;
+	border-radius: 3px 0 0 3px;
 }
 
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+	background-color: rgba(0,0,0,0.8);
 }
 
 img {
 	width: 300px;
 	margin-bottom: 100px;
-	margin-left: 50px;
+	margin-left: 0px;
 	margin-top: 50px;
 }
 
 
 .tekst {
-	margin-top:-35px;
+	margin-top:-140px;
+	margin-bottom: 50px;
 }
 
-.pilt {
+.pilt1 {
 	margin: 0px;
-	margin-top: 80px;
+	margin-top: 50px;
 	margin-left: -10px;
+	margin-bottom: 50px;
 	
 }
