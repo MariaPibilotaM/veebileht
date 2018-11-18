@@ -49,13 +49,14 @@ h2 {
 	font-family: 'Lobster', cursive;
 	font-size: 35px;
 	left: 20px;
+	margin-left:20px;
 }
 
 p {
 	font-family: 'Patrick Hand', cursive;
 	font-size: 20px;
 	position: absolute;
-	top: 450px;
+	top: 380px;
 	right: 35px;
 }
 
@@ -107,7 +108,7 @@ img {
 
 
 .tekst {
-	margin-top:-140px;
+	margin-top:-75px;
 	margin-bottom: 50px;
 }
 
