@@ -5,9 +5,8 @@ html {
 @font-face {
 	font-family: 'Permanent Marker', cursive;
 	font-size:55px;
-	text-align: left;
-	left: 20px;
 }
+
 body {
 	background-image: url("taust.jpg");
 	background-repeat: no-repeat;
